@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi!, I'm Akshay Manchekar!</h1>
 
+![IMG_20241215_164728989_HDR~4](https://github.com/user-attachments/assets/643398bf-e7a6-4dd2-bf74-76253e5876e1)
 
 <br>
 
@@ -15,7 +16,7 @@
 <img src="https://komarev.com/ghpvc/?username=akshaymanchekar&style=flat-square&color=blue" alt="Profile View Counter">
 </p>
 
----
+<br>
 
 ### 🛠️ Skills & Technologies
 💻 **Languages & Tools:**  
@@ -23,7 +24,7 @@
 
 🌟 **Frequently Used:** PowerBI | Excel | SQL  
 
----
+<br>
 
 ### 🚀 Projects: Interactive Dashboards (PowerBI)  
 📊 **COVID Data Analysis**: Explored trends and insights into global pandemic data.  
@@ -35,7 +36,7 @@
 📊 **Video Game Sales Analysis**: Revenue trends in gaming industry data.  
 📊 **Adidas Sales Analysis**: Sales metrics and regional insights for Adidas products.  
 
----
+<br>
 
 ### 🏆 Achievements & Certifications
 - 🏅 **Dean's Excellence Scholarship** at UT Dallas  
@@ -46,14 +47,14 @@
 📜 **Certifications:**  
 - SQL | PowerBI | Excel | Business Analysis | Agile Fundamentals (via Udemy)  
 
----
+<br>
 
 ### 💼 Internship Experience
 👨‍🔬 **Undergraduate Research Assistant**  
 📍 Vishwakarma Institute of Technology (VIT)  
 📆 **July 2023 - Dec 2023**  
 
----
+<br>
 
 ### 🌟 Interests & Hobbies
 - 📈 Participating in Data Competitions & Case Challenges  
@@ -63,7 +64,7 @@
 - 🎵 Listening to Music  
 - 🌍 Traveling to explore new places  
 
----
+<br>
 
 ### 📫 Let's Connect!
 <p align="center">
@@ -76,7 +77,7 @@
 <a href="https://medium.com/@akshay.manchekar2002"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
 
----
+<br>
 
 ### ⚡ Fun Fact  
 I love combining creativity and analytics to turn raw data into stories that inspire action!  
