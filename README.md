@@ -1,4 +1,8 @@
 <h1 align="center">👋 Hi!, I'm Akshay Manchekar!</h1>
+
+
+<br>
+
 <h3 align="center">Business & Data Analyst Enthusiast 🚀</h3>
 
 <p align="center">
