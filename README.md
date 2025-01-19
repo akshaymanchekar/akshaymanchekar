@@ -4,12 +4,13 @@
 
 <br>
 
-<h3 align="center">Business & Data Analyst Enthusiast 🚀</h3>
-
-<p align="center">
+<h3> 🚀 Seeking Summer 2025 Internships in the Analytics Domain (Business & Data) 🚀</h3>
+<br>
+<p>
 🎓 Pursuing MS in Business Analytics at <b>University of Texas at Dallas</b> (2024-2026)  
+
 🎓 Bachelor's in Computer Engineering from <b>Vishwakarma Institute of Technology, Pune</b> (2020-2024)  
-🌟 Passionate about leveraging data to uncover insights and create impactful visualizations!  
+
 </p>
 
 <p align="center">
@@ -19,7 +20,8 @@
 <br>
 
 📄**Click Here**: [Visit My Portfolio](https://akshaymanchekar200.wixsite.com/user-1)
-📫**Email**: (akshay.manchekar2002@gmail.com)
+
+📫**Email**: akshay.manchekar2002@gmail.com
 
 <br>
 
@@ -55,7 +57,7 @@
 <br>
 
 ### 💼 Internship Experience
-👨‍🔬 **Undergraduate Research Assistant**  
+👨‍🔬 **Data Research Analyst Intern**  
 📍 Vishwakarma Institute of Technology (VIT)  
 📆 **July 2023 - Dec 2023**  
 
