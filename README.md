@@ -19,7 +19,9 @@
 <br>
 
 📄**Click Here**: [Visit My Portfolio](https://akshaymanchekar200.wixsite.com/user-1)
+📫**Email**: (akshay.manchekar2002@gmail.com)
 
+<br>
 
 ### 🛠️ Skills & Technologies
 💻 **Languages & Tools:**  
