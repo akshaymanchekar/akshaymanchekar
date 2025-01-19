@@ -18,6 +18,9 @@
 
 <br>
 
+**Click Here**: [Visit My Portfolio](https://akshaymanchekar200.wixsite.com/user-1)
+
+
 ### 🛠️ Skills & Technologies
 💻 **Languages & Tools:**  
 `PowerBI` | `Excel` | `SQL` | `MySQL` | `PostgreSQL` | `Tableau` | `Visio` | `Jira` | `Python` | `R` | `Agile`  
